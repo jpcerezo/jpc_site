@@ -3,9 +3,9 @@ date = "2017-05-07T12:00:34Z"
 title = "This is  Dr. Juan P. Cerezo"
 +++
 
-An sincerity so extremity he additions. Her yet **there truth merit**. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
+And finally, I´ve managed to get a HUGO site running, **there is a true merit**. 
 
-Received overcame oh sensible so at an. Formed do change merely to county it. **Am separate contempt** domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too. Replied exposed savings he no viewing as up. Soon body add him hill. No father living really people estate if. Mistake do produce beloved demesne if am pursuit.
+Here will put some history about me, when I have some time to do so. Firs, a very identificative picture of me:
 
 ![This is me][1]
 
@@ -16,11 +16,13 @@ I'm a great fan of music, physics, religion and also had to work as a Network En
 
 #### Education
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+* PhD in Theoretical Physics, Apto Cum Laude (1988)
+* Cisco CCNA (2002)
+* Hurricane Electric IPv6 Sage (2010)
+* Juniper JNCIP-ENT (2014)
+* Juniper JNCIS-SP (2016)
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then
-
+Not really a fan of certifications, but somewhat the only way some people could recognize your value, wherever it is...
 
 Also had some time to take photos, and they are here:
 
