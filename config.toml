@@ -1,3 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://oscnc.eu/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "New Hugo Site of juampe"
+newContentEditor = "vi"
+theme = "nofancy"
+pygmentsStyle = "native"
