@@ -24,7 +24,7 @@ When she reached the first hills of the Italic Mountains, she had a last view ba
 
 Also had some time to take photos, and they are here:
 
-![FLICKR ALBUM][2]
+[FLICKR ALBUM][2]
 
-[1]: /img/about.jpg
+[1]: /img/juampe-summer-2012-med.jpg
 [2]: https://www.flickr.com/photos/jpcerezo/
