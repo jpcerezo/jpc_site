@@ -1,5 +1,5 @@
 baseURL = "http://inetlabs.es/"
-title = "Juan P. Cerezo personal/progfessional site"
+title = "Juan P. Cerezo personal & professional site"
 newContentEditor = "vi"
 pygmentsStyle = "native"
 theme = "hugo-creative-portfolio-theme"
