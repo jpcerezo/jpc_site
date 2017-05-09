@@ -3,16 +3,15 @@ showonlyimage = true
 draft = false
 image = "img/portfolio/a4-paper.jpg"
 date = "2016-11-05T18:25:22+05:30"
-title = "Name of the work 1"
+title = "IBM Olimpic Games Comentator System"
 weight = 0
 +++
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+I have to say that working on IBM was a real pleasure, in the times of the Barcelona 1992 Olympic Games. I worked with nice new technologies (IBM PS/2, OS/2, tactile screens, 4381 and 3090 mainframes, gorgeous graphical stations, RS/6000, 240 dpi laser printers, etc.)
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+The development (inserted into the big Results System for Barcelona '92 games project) was a success, got the Olympic Comitee gold medal to innovation on 1992, and served to publish some articles in spanish magazines. Also served to develop the technology that IBM provided while being the Technology Partner of the IOC (although the IBM USA fellas never acknowledged it, until the 1996 Atlanta Games fiasco, but that´s another history...)  
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
 
 1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
 2. Aliquam tincidunt mauris eu risus.
