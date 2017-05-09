@@ -1,5 +1,5 @@
-baseURL = "http://oscnc.eu/"
-title = "New Site of juampe"
+baseURL = "http://inetlabs.es/"
+title = "Juan P. Cerezo personal/progfessional site"
 newContentEditor = "vi"
 pygmentsStyle = "native"
 theme = "hugo-creative-portfolio-theme"
