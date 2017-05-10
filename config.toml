@@ -47,6 +47,10 @@ googleAnalytics = ""
   name = "Get in touch"
   url = "contact/"
 
+  [[params.navlinks]]
+  name = "My Tools"
+  url = "tools/"
+
   [params.social]
   facebook      = "https://www.facebook.com/juampe.cerezo"
   googleplus    = "https://plus.google.com/+JuanPedroCerezo"
