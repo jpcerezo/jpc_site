@@ -1,9 +1,7 @@
 +++
 categories = ["misc"]
-date = "2017-05-07T12:03:45Z"
-draft = "true"
+date = "2017-05-10T12:03:45Z"
 title = "My Favourite online tools"
-
 +++
 
 These are my online tools.  I hope that you like it!
