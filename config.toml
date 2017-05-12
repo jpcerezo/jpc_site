@@ -47,10 +47,6 @@ googleAnalytics = ""
   name = "Get in touch"
   url = "contact/"
 
-  [[params.navlinks]]
-  name = "My Tools"
-  url = "tools/"
-
   [params.social]
   facebook      = "https://www.facebook.com/juampe.cerezo"
   googleplus    = "https://plus.google.com/+JuanPedroCerezo"
@@ -60,3 +56,14 @@ googleAnalytics = ""
 #  stackoverflow = "full profile url in stackoverflow"
 #  instagram     = "full profile url in instagram"
   github        = "https://github.com/jpcerezo"
+
+[[menu.main]]
+name = "Main Section folder"
+identifier = "sect"
+url = "/section/"
+
+[[menu.main]]
+name = "Main Sublevel topic"
+parent = "sect"
+identifier = "sub1"
+url = "/section/folder1/"
