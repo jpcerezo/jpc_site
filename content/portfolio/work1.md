@@ -12,9 +12,9 @@ I have to say that working on IBM was a real pleasure, in the times of the Barce
 I worked in a small group of the Madrid Scientific Center in the UAM, that was one of the 12 research facilities of the company around the world. I still miss working on [IBM Research](http://www.research.ibm.com/), btw.
 <!--more-->
 
-The development (inserted into the big Results System for Barcelona '92 games project) was a success, got the Olympic Comitee gold medal to innovation on 1992, and served to publish some articles in spanish magazines. Also served to develop the technology that IBM provided while being the Technology Partner of the IOC (although the IBM USA fellas never acknowledged it, until the 1996 Atlanta Games fiasco, but that´s another history...)  
+The development (inserted into the big Results System for Barcelona '92 games project) was a success, got the Olympic Comitee gold medal to innovation on 1992, and served to publish some articles in spanish magazines. Also served to develop the technology that IBM provided while being the Technology Partner of the IOC since the Lillehammer Winter Olympics (although the IBM USA fellas never acknowledged it, until the 1996 Atlanta Games fiasco, but that´s another history...). But I was out of IBM by then.   
 
-> Glad to see that [this system is still operational][1]
+> Anyway, Glad to see that [this system is still operational][1]
 
 And I was really there :
 
