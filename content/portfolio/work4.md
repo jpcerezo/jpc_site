@@ -3,11 +3,13 @@ draft = false
 image = ""
 showonlyimage = false
 date = "2016-11-05T19:50:47+05:30"
-title = "Item without image"
+title = "My life at BT"
 weight = 4
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+This can be considered as the biggest and most importan job in my career. I was in the company for 18 years (aug-1996 to March-2015), and I moved through various positions, until leaving. It was very cosntructive, refreshing and stimulating (sometimes), but also frustrative and disappointing (some others.
+
+Can´t complain of being part of the BT´s history in Spain, that´s also the history of the Telco competition opening (in 1998 and 2000), specially in the enterprise market.  
 <!--more-->
 
 Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.

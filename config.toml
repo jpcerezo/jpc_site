@@ -1,5 +1,5 @@
-baseURL = "http://inetlabs.es/"
-title = "Juan P. Cerezo personal & professional site"
+baseURL = "https://inetlabs.es/"
+title = "Dr. Juan P. Cerezo personal & professional site"
 newContentEditor = "vi"
 pygmentsStyle = "native"
 theme = "hugo-creative-portfolio-theme"
@@ -13,7 +13,7 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "default"
-  description = "Juan P. Cerezo Website"
+  description = "Dr. Juan P. Cerezo Website"
   copyright = "&copy;2016 Inetlabs.es"
   sidebarAbout = [
     "I am a non-conventional Network Engineer with more than 32 years of experience ",
